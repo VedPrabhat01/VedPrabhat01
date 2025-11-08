@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VedPrabhat
 - 👀 I’m interested in Web developement, Data Science, Blockchain, AI Ml
-- 🌱 I’m currently learning java, javascript, C, C++ and python.
+- 🌱 I’m currently learning java, C, C++ and python.
 - 📫 How to reach me ... linkedin.com/in/ved-prabhat-1827a6301
 
 <!---
